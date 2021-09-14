@@ -21,6 +21,7 @@ export default function Home() {
      )
 }
 export async function getServerSideProps(){
-  
+  const genre = conext.query.genre;
+
 
 }
