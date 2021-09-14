@@ -22,7 +22,7 @@ function Header() {
 
             </div>
 
-            <Image src="/hulu.png" height={60} width={100} />
+            <Image src="/hulu.png" height={50} width={200}  />
 
         </header>
     )
